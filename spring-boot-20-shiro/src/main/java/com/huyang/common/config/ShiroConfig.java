@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * Shiro配置
  *
- * @author BG460559
+ * @author huayng
  * @since 1.0
  */
 @Configuration
