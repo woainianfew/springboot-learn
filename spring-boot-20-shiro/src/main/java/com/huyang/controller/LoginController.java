@@ -1,6 +1,3 @@
-/**
- * Copyright (C) 2017 The BEST Authors
- */
 package com.huyang.controller;
 
 import com.huyang.common.dto.ResponseCode;

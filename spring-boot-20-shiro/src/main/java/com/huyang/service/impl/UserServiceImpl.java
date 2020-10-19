@@ -1,6 +1,3 @@
-/**
- * Copyright (C) 2017 The BEST Authors
- */
 package com.huyang.service.impl;
 
 import com.huyang.mapper.UserMapper;

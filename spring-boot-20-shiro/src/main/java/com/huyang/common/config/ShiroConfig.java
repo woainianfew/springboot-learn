@@ -1,6 +1,3 @@
-/**
- * Copyright (C) 2017 The BEST Authors
- */
 package com.huyang.common.config;
 
 import com.huyang.common.realm.AuthRealm;
